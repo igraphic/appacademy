@@ -1,3 +1,3 @@
 # App Academy Exercises
 
-My solutions for [App Academy](https://open.appacademy.io) full stack course
+[App Academy](https://open.appacademy.io) full stack course, exercises solutions
